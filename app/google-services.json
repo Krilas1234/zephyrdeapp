@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "277611742728",
+    "firebase_url": "https://zephyrdeapp-a13fb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "zephyrdeapp-a13fb",
+    "storage_bucket": "zephyrdeapp-a13fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277611742728:android:15529d721a9214e19433bd",
+        "android_client_info": {
+          "package_name": "com.zephyr.zephyrdeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277611742728-nhp7cfmur8i5avvkmsloe7ouou66gb5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zephyr.zephyrdeapp",
+            "certificate_hash": "124ae265a9fb4fa167e80b750c9080ede6b23f32"
+          }
+        },
+        {
+          "client_id": "277611742728-4j4ov8fcklfhp4r4b7b6c3icoi4f92v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLfjxjp7Uk9gc7Vlye7Evu6cclO3VVKAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277611742728-4j4ov8fcklfhp4r4b7b6c3icoi4f92v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
